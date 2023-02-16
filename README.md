@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+![](https://github.com/ozgurkara99/ozgurkara99/blob/main/resume-1.jpg?raw=true)
+![](https://github.com/ozgurkara99/ozgurkara99/blob/main/resume-2.jpg?raw=true)
+![](https://github.com/ozgurkara99/ozgurkara99/blob/main/resume-3.jpg?raw=true)
+
 <!--
 **ozgurkara99/ozgurkara99** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

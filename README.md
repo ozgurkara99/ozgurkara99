@@ -1,6 +1,7 @@
 <h1 align="center">Hi 👋, I'm Özgür Kara</h1>
 
-Here's my website: [**karakay.me**](https://www.karaozgur.coma)
+Here's my website: [**karaozgur.com**](https://www.karaozgur.com)
+
 Feel free to reach out to me **ozgurrkara99@gmail.com**
 
 ![](https://github.com/ozgurkara99/ozgurkara99/blob/main/resume/resume-1.jpg?raw=true)

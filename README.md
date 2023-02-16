@@ -1,6 +1,14 @@
+<h1 align="center">Hi 👋, I'm Özgür Kara</h1>
+
+Here's my website: [**karakay.me**](https://www.karaozgur.coma)
+Feel free to reach out to me **ozgurrkara99@gmail.com**
+
 ![](https://github.com/ozgurkara99/ozgurkara99/blob/main/resume/resume-1.jpg?raw=true)
 ![](https://github.com/ozgurkara99/ozgurkara99/blob/main/resume/resume-2.jpg?raw=true)
 ![](https://github.com/ozgurkara99/ozgurkara99/blob/main/resume/resume-3.jpg?raw=true)
+
+
+
 
 <!--
 **ozgurkara99/ozgurkara99** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

@@ -2,7 +2,7 @@
 
 Here's my website: [**karaozgur.com**](https://www.karaozgur.com)
 
-Feel free to reach out to me **ozgurrkara99@gmail.com**
+Feel free to reach me to discuss math, research, ideas: **ozgurrkara99@gmail.com**
 
 ![](https://github.com/ozgurkara99/ozgurkara99/blob/main/resume/resume-1.jpg?raw=true)
 ![](https://github.com/ozgurkara99/ozgurkara99/blob/main/resume/resume-2.jpg?raw=true)

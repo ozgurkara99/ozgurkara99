@@ -1,3 +1,5 @@
+![](https://komarev.com/ghpvc/?username=ozgurkara99)
+
 <h1 align="center">Hi 👋, I'm Özgür Kara</h1>
 
 Here's my website: [**karaozgur.com**](https://www.karaozgur.com)

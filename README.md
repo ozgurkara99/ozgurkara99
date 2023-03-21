@@ -2,7 +2,7 @@
 
 <h1 align="center">Hi 👋, I'm Özgür Kara</h1>
 
-Here's my website: [**karaozgur.com**](https://www.karaozgur.com)
+Here's my website: [**karaozgur.com**](https://www.karaozgur.com))
 
 Feel free to reach me to discuss math, research, ideas: **ozgurrkara99@gmail.com**
 
